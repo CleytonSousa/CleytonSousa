@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hey 👋
 
-<!--
-**CleytonSousa/CleytonSousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is cleyton sousa 🇧🇷
+I'm a programming student trying to learn more💻 
+passionate about codes 🧑‍💻
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### ⚔️ Os limites só existem se você os deixar existir.
+
+🏡 from PE, Brazil.
+ 19y.
+
+
+Want to talk to me?
+
+  <a href="https://instagram.com/cleyton_azuos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+<Div>
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="JavaScript" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">
+
+</Div>
+  
+
+
