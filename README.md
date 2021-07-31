@@ -1,8 +1,9 @@
 # Hey 👋
 
-My name is cleyton sousa 🇧🇷
-I'm a programming student trying to learn more💻 
-passionate about codes 🧑‍💻
+My name is cleyton sousa 🇧🇷 <br>
+I'm a programming student trying to learn more💻 <br>
+passionate about codes 🧑‍💻<br>
+front-end student 🧑‍🎓
 
 
 #### ⚔️ Os limites só existem se você os deixar existir.
