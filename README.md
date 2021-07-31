@@ -12,11 +12,11 @@ passionate about codes 🧑‍💻
 
 <div>
   <a href="https://github.com/CleytonSousa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CleytonSousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleytonSousa&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CleytonSousa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleytonSousa&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
-Want to talk to me?
+### Want to talk to me?
 
   <a href="https://instagram.com/cleyton_azuos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
@@ -30,6 +30,7 @@ Want to talk to me?
  <img align="center" alt="JavaScript" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg">
  <img align="center" alt="JavaScript" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">
   <img align="center" alt="JavaScript" height="30" width="33" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/GitHub_Mark.png">
+ <img align="right" alt="Creitin-otaku??? width="150" height="250" src="https://media1.tenor.com/images/6b272d79724044c04505a19700d7abb6/tenor.gif?itemid=11379500">
  
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
