@@ -10,7 +10,6 @@ passionate about codes 🧑‍💻
 🏡 from PE, Brazil.
  19y.
 
-
 Want to talk to me?
 
   <a href="https://instagram.com/cleyton_azuos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -26,7 +25,7 @@ Want to talk to me?
  <img align="center" alt="JavaScript" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">
   <img align="center" alt="JavaScript" height="30" width="33" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/GitHub_Mark.png">
  
- 
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 
 </Div>
