@@ -34,7 +34,7 @@ front-end student 🧑‍🎓
   <img align="center" alt="VisualStudio" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
  <img align="right" alt="Creitin-otaku??? width="80" height="180" src="https://media1.tenor.com/images/6b272d79724044c04505a19700d7abb6/tenor.gif?itemid=11379500">
  
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/CleytonSousa/CleytonSousa/blob/output/github-contribution-grid-snake.svg)
  
 
 </Div>
