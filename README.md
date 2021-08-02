@@ -32,7 +32,7 @@ front-end student 🧑‍🎓
  <img align="center" alt="Git" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">
   <img align="center" alt="GitHub" height="30" width="33" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/GitHub_Mark.png">
   <img align="center" alt="VisualStudio" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
- <img align="right" alt="Creitin-otaku??? width="150" height="250" src="https://media1.tenor.com/images/6b272d79724044c04505a19700d7abb6/tenor.gif?itemid=11379500">
+ <img align="right" alt="Creitin-otaku??? width="80" height="180" src="https://media1.tenor.com/images/6b272d79724044c04505a19700d7abb6/tenor.gif?itemid=11379500">
  
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
