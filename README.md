@@ -4,7 +4,7 @@ My name is cleyton sousa 🇧🇷 <br>
 I'm a programming student trying to learn more💻 <br>
 passionate about codes 🧑‍💻<br>
 front-end student 🧑‍🎓
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CleytonSousa&label=Profile%20views&color=0e75b6&style=flat" alt="sprucegabriela" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CleytonSousa&label=Profile%20views&color=0e75b6&style=flat" alt="Creitin" /> </p>
 
 
 #### ⚔️ Os limites só existem se você os deixar existir.
