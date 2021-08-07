@@ -33,7 +33,7 @@ front-end student 🧑‍🎓
  <img align="center" alt="React" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg">
  <img align="center" alt="SQL" height="30" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png">
  <img align="center" alt="MySQL" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg">
- <img align="center" alt="Linux" height="35" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Linux_logo.jpg">
+ <img align="center" alt="Linux" height="40" width="50" src="https://images.vexels.com/media/users/3/140692/isolated/lists/72d1f12edf758d24f5b6db73bac4f297-logotipo-do-linux.png">
  <img align="center" alt="Git" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">
   <img align="center" alt="GitHub" height="30" width="33" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/GitHub_Mark.png">
   <img align="center" alt="VisualStudio" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
