@@ -19,7 +19,7 @@ front-end student 🧑‍🎓
 </div>
  <br><br>
 <p align="flex-start">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Want+to+talk+to+me?;%E2%86%93+%E2%86%93+%E2%86%93+send+mensage+in+socials;Quer+falar+comigo?;%E2%86%93+%E2%86%93+%E2%86%93+manda+mensagem+nas+redes+abaixo&center=false&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Want+to+talk+to+me?;%E2%86%93+%E2%86%93+%E2%86%93+send+mensage+in+socials;Quer+falar+comigo?;%E2%86%93+%E2%86%93+%E2%86%93+manda+mensagem+nas+redes+abaixo&center=false&width=500&height=50&color=FF0000">
 </p>
 
   <a href="https://instagram.com/cleyton_azuos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?&logo=instagram&logoColor=white" target="_blank"></a>
