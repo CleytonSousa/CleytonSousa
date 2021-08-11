@@ -17,7 +17,7 @@ front-end student 🧑‍🎓
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CleytonSousa&bg_color=30,5d8aa8,28b1ff,cf58c2&title_color=fff&text_color=fff"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleytonSousa&bg_color=30,5d8aa8,28b1ff,cf58c2&title_color=fff&text_color=fff&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
- 
+ <br><br>
 <p align="flex-start">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Want+to+talk+to+me?;%E2%86%93+%E2%86%93+%E2%86%93+send+mensage+in+socials;Quer+falar+comigo?;%E2%86%93+%E2%86%93+%E2%86%93+manda+mensagem+nas+redes+abaixo&center=false&width=500&height=50">
 </p>
