@@ -30,6 +30,8 @@ front-end student 🧑‍🎓
  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     
  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ 
+ <img align="center" alt="sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
 
  <img align="center" alt="JavaScript" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">
  
@@ -37,13 +39,21 @@ front-end student 🧑‍🎓
  
  <img align="center" alt="React" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg">
  
+ <img align="center" alt="nodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+ 
+ <img align="center" alt="npm" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
+ 
+ <img align="center" alt="yarn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg">
+ 
+ <img align="center" alt="expo" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/expo_logo_icon_145293.png">
+ 
  <img align="center" alt="SQL" height="30" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png">
  
  <img align="center" alt="MySQL" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg">
  
- <img aligh="center" alt="windows" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Icon-windows_os.svg">
- 
  <img align="center" alt="Linux" height="30" width="40" src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png">
+ 
+ <img align="center" alt="windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
   
  <img align="center" alt="Git" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">
  
@@ -53,7 +63,7 @@ front-end student 🧑‍🎓
 
  <img align="center" alt="atomIDE" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png">
  
-<img align="center" alt="godotGameEngine" height="30" width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Godot_logo.svg/799px-Godot_logo.svg.png">
+<img align="center" alt="godotGameEngine" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
  
  <br><br>
  
