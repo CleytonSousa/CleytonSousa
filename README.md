@@ -57,7 +57,7 @@ front-end student 🧑‍🎓
  
  <br><br>
  
-[![Cleyton's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@CleytonSousa)](https://github.com/anuraghazra/github-readme-stats)
+[![Cleyton's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?usernameCleytonSousa&bg_color=30,5d8aa8,28b1ff,cf58c2&title_color=ffd700)](https://github.com/anuraghazra/github-readme-stats)
 
 
  
