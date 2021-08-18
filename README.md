@@ -66,8 +66,9 @@ front-end student 🧑‍🎓
 <img align="center" alt="godotGameEngine" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
  
  <br><br>
- 
-[![Cleyton's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?usernameCleytonSousa&bg_color=30,5d8aa8,28b1ff,cf58c2&title_color=ffd700)](https://github.com/CleytonSousa/github-readme-stats)
+
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
  
