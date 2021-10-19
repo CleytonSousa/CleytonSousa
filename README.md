@@ -47,6 +47,10 @@ front-end student 🧑‍🎓
  
  <img align="center" alt="MySQL" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg">
  
+ <img align="center" alt="jest" height="30" width="40" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-svg-vector.svg">
+ 
+  <img align="center" alt="RTL" height="35" width="40" src="https://testing-library.com/img/octopus-128x128.png">
+ 
  <img align="center" alt="Linux" height="30" width="40" src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png">
  
  <img align="center" alt="windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
