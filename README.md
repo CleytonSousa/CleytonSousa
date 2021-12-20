@@ -1,16 +1,16 @@
 # Hey 👋
 
 My name is cleyton sousa 🇧🇷 <br>
-I'm a programming student trying to learn more💻 <br>
+I'm a programer trying to learn more ever💻 <br>
 passionate about codes 🧑‍💻<br>
-front-end student 🧑‍🎓
+dev front-end PL (maybe fullStack)🎓
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CleytonSousa&label=Profile%20views&color=0e75b6&style=flat" alt="Creitin" /> </p>
 
 
 #### ⚔️ Os limites só existem se você os deixar existir.
 
 🏡 from PE, Brazil.
- 19y.
+ 20y.
 
 <div>
   <a href="https://github.com/CleytonSousa">
@@ -62,20 +62,6 @@ front-end student 🧑‍🎓
  <img align="center" alt="atomIDE" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png">
  
 <img align="center" alt="godotGameEngine" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
- 
- <br><br>
-
- <!--START_SECTION:waka-->
-```text
-TypeScript   3 hrs 19 mins   ███████████████████████▒░   92.68 % 
-CSS          6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-JavaScript   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-```
-<!--END_SECTION:waka-->
-
-
  
  ![Snake animation](https://github.com/CleytonSousa/CleytonSousa/blob/output/github-contribution-grid-snake.svg)
  
