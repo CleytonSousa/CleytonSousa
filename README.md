@@ -1,69 +1,61 @@
-# Hey 👋
+<h3 title="hehehe"> Hey 👋, I'm Cleyton!</h3>
 
-My name is cleyton sousa 🇧🇷 <br>
-I'm a programer trying to learn more ever💻 <br>
-passionate about codes 🧑‍💻<br>
-dev front-end PL (maybe fullStack)🎓
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CleytonSousa&label=Profile%20views&color=0e75b6&style=flat" alt="Creitin" /> </p>
+<a href="https://br.linkedin.com/in/cleyton-sousa-3626a11a5">
+  <img align="left" alt="Zamran's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<br>
+<br>
+<img src="https://komarev.com/ghpvc/?username=CleytonSousa&color=blueviolet">
+<br />
+<br />
+
+Hi there, I'm **Cleyton Sousa**, a **Software Engineering student** 🚀 from Recife, pernambuco.
+
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+**About Me!**
+
+- 🌱 I’m currently exploring NodeJS and Prisma with a big interest in be a full stack Software Engineering. 
+- 🤔 My interests are web apps, i love use react or NextJS to make my projects
+- 💼 I start my Bachelor's degree in Software Engineering.
+- 💬 Ask me about anything, I love to answer and teatch who want learn!
+- 📫 Email me at [Click](mailto:cleytonsousadossantos.2021@gmail.com).
+- 📝 See my [Curriculum](https://drive.google.com/file/d/1EHzxZXkaw32e4rvKdlEI--x2nClROIRr/view?usp=sharing) to get more info.
 
 
-#### ⚔️ Os limites só existem se você os deixar existir.
+**Languages and Tools:**  
 
-🏡 from PE, Brazil.
- 20y.
+<h4>My <u>Front end</u> skills</h4>
 
-<div>
-  <a href="https://github.com/CleytonSousa">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CleytonSousa&bg_color=30,5d8aa8,28b1ff,cf58c2&title_color=fff&text_color=fff"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleytonSousa&bg_color=30,5d8aa8,28b1ff,cf58c2&title_color=fff&text_color=fff&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
- <br><br>
-<p align="flex-start">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Want+to+talk+to+me?;%E2%86%93+%E2%86%93+%E2%86%93+send+mensage+in+socials;Quer+falar+comigo?;%E2%86%93+%E2%86%93+%E2%86%93+manda+mensagem+nas+redes+abaixo&center=false&width=500&height=50&color=FF0000">
-</p>
- 
-  <a style="display: inline-block;" href="https://www.linkedin.com/in/cleyton-sousa-3626a11a5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-<Div>
- <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    
- <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg"></code>
 
- <img align="center" alt="JavaScript" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">
- 
- <img align="center" alt="JavaScript" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
- 
- <img align="center" alt="React" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg">
- 
- <img align="center" alt="nodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
- 
- <img align="center" alt="npm" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
- 
- <img align="center" alt="yarn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg">
- 
- <img align="center" alt="SQL" height="30" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png">
- 
- <img align="center" alt="MySQL" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg">
- 
- <img align="center" alt="jest" height="30" width="40" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-svg-vector.svg">
- 
-  <img align="center" alt="RTL" height="35" width="40" src="https://testing-library.com/img/octopus-128x128.png">
- 
- <img align="center" alt="Linux" height="30" width="40" src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png">
- 
- <img align="center" alt="windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
-  
- <img align="center" alt="Git" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">
- 
- <img align="center" alt="GitHub" height="30" width="33" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/GitHub_Mark.png">
-  
- <img align="center" alt="VisualStudio" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
+<h4>My <u>Back end</u> skills</h4>
 
- <img align="center" alt="atomIDE" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png">
- 
-<img align="center" alt="godotGameEngine" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
- 
- ![Snake animation](https://github.com/CleytonSousa/CleytonSousa/blob/output/github-contribution-grid-snake.svg)
- 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/rtlx0sivc7wcr75y5bkj"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg"></code>
 
-</Div>
+<h4>My <u>test</u> skills</h4>
+
+<code><img height="30" src="https://testing-library.com/img/octopus-128x128.png"></code>
+<code><img height="30" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-svg-vector.svg"></code>
+
+
+<h4>My <u>Tools</u> who i normally use</h4>
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/trello.svg"></code>
+<code>
+<code><img height="30" src="https://www.solarwinds.com/-/media/solarwinds/swdcv2/licensed-products/service-desk/integrations/sd-integrations-logo-jira.ashx?rev=701fbaa7f8ac4ae08e0406c8984c43e7&hash=75D4F04DE99B88DE7B2C4193F0616F1F"></code>
+<code><img height="30" src="https://seeklogo.com/images/Y/yarn-logo-F5E7A65FA2-seeklogo.com.png"></code>
+<img height="30" src="https://miro.medium.com/max/275/1*-Wt5cIM3FpDRAv0C9kKhCA.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></code>
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=CleytonSousa&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Cleyton's GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleytonSousa&theme=shades-of-purple"/>
