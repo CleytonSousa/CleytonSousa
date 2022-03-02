@@ -1,9 +1,8 @@
 <h3 title="hehehe"> Hey 👋, I'm Cleyton!</h3>
 
 <a href="https://br.linkedin.com/in/cleyton-sousa-3626a11a5">
-  <img align="left" alt="Zamran's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkdeIn" width="56px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>
-<br>
 <br>
 <img src="https://komarev.com/ghpvc/?username=CleytonSousa&color=blueviolet">
 <br />
