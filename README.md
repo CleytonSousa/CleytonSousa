@@ -37,11 +37,15 @@ Hi there, I'm **Cleyton Sousa**, a **Software Engineering student** 🚀 from Re
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/rtlx0sivc7wcr75y5bkj"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg"></code>
+<code><img height="35" src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png"></code>
+<code><img height="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
 
 <h4>My <u>test</u> skills</h4>
 
 <code><img height="30" src="https://testing-library.com/img/octopus-128x128.png"></code>
 <code><img height="30" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-svg-vector.svg"></code>
+<code><img height="30" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_5b9d2c5176ad8f918a0ad84241ab9673/junit.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Mockito_Logo.png"></code>
 
 
 <h4>My <u>Tools</u> who i normally use</h4>
