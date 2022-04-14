@@ -8,18 +8,28 @@
 <br />
 <br />
 
-Hi there, I'm **Cleyton Sousa**, a **Software Engineering student** 🚀 from Recife, pernambuco.
+Hi there, I'm **Cleyton Sousa**, a **FullStack Software Engineering** 🚀 from Recife, pernambuco.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **About Me!**
 
-- 🌱 I’m currently exploring NodeJS and Prisma with a big interest in be a full stack Software Engineering. 
-- 🤔 My interests are web apps, i love use react or NextJS to make my projects
-- 💼 I start my Bachelor's degree in Software Engineering.
+- 🌱 I’m currently working as FullStack Software Engineering at Accenture Brasil with React, Spring boot, faith and Coffe. 
+- 🤔 My main interest now is the spring boot ecosystem, there is a lot of interesting stuff in it ;b 
+- 💼 I start my bachelor degree in computer science in March.
 - 💬 Ask me about anything, I love to answer and teatch who want learn!
 - 📫 Email me at [Click](mailto:cleytonsousadossantos.2021@gmail.com).
-- 📝 See my [Curriculum](https://drive.google.com/file/d/1EHzxZXkaw32e4rvKdlEI--x2nClROIRr/view?usp=sharing) to get more info.
+
+
+Alô, eu sou o **Cleyton Sousa**, um **FullStack Software Engineering** 🚀 de Recife, pernambuco.(Oxente)
+
+**Sobre mim!**
+
+- 🌱 Eu estou atualmente trabalhando como fullStack pleno na Accenture brasil, atuo com React, Spring boot, muita fé e café.
+- 🤔 Meu principal interesse agora é o ecosistema do spring boot, tem um monte de coisa massa nele ;b
+- 💼 Iniciei meu Bacharelado em ciência da computação 🤠
+- 💬 Me pergunte o que quiser, eu amo responder e ensinar quem quer aprender.!
+- 📫 quer me mandar um email? Clica aqui -> [Click](mailto:cleytonsousadossantos.2021@gmail.com).
 
 
 **Languages and Tools:**  
