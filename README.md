@@ -70,9 +70,8 @@ Alô, eu sou o **Cleyton Sousa**, um **FullStack Software Engineering** 🚀 de 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></code>
 
  <!--START_SECTION:waka-->
-```text
 
-```
+
 <!--END_SECTION:waka-->
 
 <img src="https://github-readme-stats.vercel.app/api?username=CleytonSousa&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Cleyton's GitHub Stats">
