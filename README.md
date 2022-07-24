@@ -71,6 +71,9 @@ Alô, eu sou o **Cleyton Sousa**, um **FullStack Software Engineering** 🚀 de 
 
  <!--START_SECTION:waka-->
 
+```text
+No activity tracked
+```
 
 <!--END_SECTION:waka-->
 
