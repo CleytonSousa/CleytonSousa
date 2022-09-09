@@ -72,7 +72,8 @@ Alô, eu sou o **Cleyton Sousa**, um **FullStack Software Engineering** 🚀 de 
  <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   6 mins          ███████████████████████░░   91.62 %
+TypeScript   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
 ```
 
 <!--END_SECTION:waka-->
